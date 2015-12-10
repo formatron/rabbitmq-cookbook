@@ -1,4 +1,7 @@
 name 'formatron_rabbitmq'
 version '0.1.0'
+description 'Formatron RabbitMQ cookbook'
+source_url 'https://github.com/formatron/rabbitmq-cookbook'
+issues_url 'https://github.com/formatron/rabbitmq-cookbook/issues'
 supports 'ubuntu'
 depends 'apt'
